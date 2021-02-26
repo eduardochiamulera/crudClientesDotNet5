@@ -1,0 +1,17 @@
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\bin\Debug\netcoreapp3.1\CrudClientes.Domain.dll
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\bin\Debug\netcoreapp3.1\CrudClientes.Interface.dll
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\obj\Debug\netcoreapp3.1\CrudClientes.Repository.csprojAssemblyReference.cache
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\obj\Debug\netcoreapp3.1\CrudClientes.Repository.AssemblyInfoInputs.cache
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\obj\Debug\netcoreapp3.1\CrudClientes.Repository.AssemblyInfo.cs
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\obj\Debug\netcoreapp3.1\CrudClientes.Repository.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\bin\Debug\netcoreapp3.1\CrudClientes.Repository.deps.json
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\bin\Debug\netcoreapp3.1\CrudClientes.Repository.runtimeconfig.json
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\bin\Debug\netcoreapp3.1\CrudClientes.Repository.runtimeconfig.dev.json
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\bin\Debug\netcoreapp3.1\CrudClientes.Repository.dll
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\bin\Debug\netcoreapp3.1\CrudClientes.Repository.pdb
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\bin\Debug\netcoreapp3.1\CrudClientes.Domain.pdb
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\bin\Debug\netcoreapp3.1\CrudClientes.Interface.pdb
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\obj\Debug\netcoreapp3.1\CrudClientes.Repository.csproj.CopyComplete
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\obj\Debug\netcoreapp3.1\CrudClientes.Repository.dll
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\obj\Debug\netcoreapp3.1\CrudClientes.Repository.pdb
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Repository\obj\Debug\netcoreapp3.1\CrudClientes.Repository.genruntimeconfig.cache

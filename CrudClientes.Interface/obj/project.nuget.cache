@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZT7pA+XZj8toasKmkVj85o0qEpwNTQs9YXGR9Na5ed9GFkJADQZkxd+jwDiewKwkXS4liasthzNyYgFI8WrfNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduardo.chiamulera\\source\\repos\\CrudClientes\\CrudClientes.Interface\\CrudClientes.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduardo.chiamulera\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

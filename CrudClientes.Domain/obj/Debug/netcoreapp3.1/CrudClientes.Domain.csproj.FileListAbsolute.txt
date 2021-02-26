@@ -1,0 +1,8 @@
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Domain\bin\Debug\netcoreapp3.1\CrudClientes.Domain.deps.json
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Domain\bin\Debug\netcoreapp3.1\CrudClientes.Domain.dll
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Domain\bin\Debug\netcoreapp3.1\CrudClientes.Domain.pdb
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Domain\obj\Debug\netcoreapp3.1\CrudClientes.Domain.AssemblyInfoInputs.cache
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Domain\obj\Debug\netcoreapp3.1\CrudClientes.Domain.AssemblyInfo.cs
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Domain\obj\Debug\netcoreapp3.1\CrudClientes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Domain\obj\Debug\netcoreapp3.1\CrudClientes.Domain.dll
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Domain\obj\Debug\netcoreapp3.1\CrudClientes.Domain.pdb

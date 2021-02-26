@@ -1,0 +1,12 @@
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\bin\Debug\netcoreapp3.1\CrudClientes.Interface.deps.json
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\bin\Debug\netcoreapp3.1\CrudClientes.Interface.dll
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\bin\Debug\netcoreapp3.1\CrudClientes.Interface.pdb
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\bin\Debug\netcoreapp3.1\CrudClientes.Domain.dll
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\bin\Debug\netcoreapp3.1\CrudClientes.Domain.pdb
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\obj\Debug\netcoreapp3.1\CrudClientes.Interface.csprojAssemblyReference.cache
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\obj\Debug\netcoreapp3.1\CrudClientes.Interface.AssemblyInfoInputs.cache
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\obj\Debug\netcoreapp3.1\CrudClientes.Interface.AssemblyInfo.cs
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\obj\Debug\netcoreapp3.1\CrudClientes.Interface.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\obj\Debug\netcoreapp3.1\CrudClientes.Interface.csproj.CopyComplete
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\obj\Debug\netcoreapp3.1\CrudClientes.Interface.dll
+C:\Users\eduardo.chiamulera\source\repos\CrudClientes\CrudClientes.Interface\obj\Debug\netcoreapp3.1\CrudClientes.Interface.pdb
